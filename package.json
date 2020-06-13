@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "getChallenges": "./src/extractChallenges.sh",
+    "updateContinueCode": "./src/updateContinueCode.js",
+    "printIds": "./src/printIds.js"
+  },
+  "dependencies": {
+    "hashids": "^2.2.1",
+    "js-yaml": "^3.14.0",
+    "yargs": "^15.3.1"
+  }
+}
